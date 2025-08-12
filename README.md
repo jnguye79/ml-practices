@@ -6,7 +6,7 @@
 #### 2. Unsupervised Learning
 
 ## Supervised Learning
-#### Comprises of various concepts (will mostly update this folder) from various regressions to kmodel, random forest, and other such concepts.
+#### Comprises of various concepts (will mostly update this folder) from various regressions to k-N model, random forest, and other such concepts.
 
-## Undersupervised Learning
+## Unsupervised Learning
 #### Will follow up with update.
