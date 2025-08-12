@@ -24,10 +24,10 @@ def update_parameters(gradients, learn_rate):
 
 def run():
     """
-    Runs the program
+    Runs the program.
 
     Returns:
-        A visual compilation of the linear regression model
+        A visual representation of the linear regression model.
     """
 
     # Load dataset
