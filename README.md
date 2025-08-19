@@ -7,6 +7,7 @@
 
 ## Supervised Learning
 #### Comprises of various concepts (will mostly update this folder) from various regressions to k-N model, random forest, and other such concepts.
+- Gradient Descent
 
 ## Unsupervised Learning
 #### Will follow up with update.
