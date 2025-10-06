@@ -16,7 +16,7 @@ def compute_errors(points, b, m):
         # We'll use the error formula. To compute the gradient, based off of the error.
         # Little explanation of the formula. Essentially it's y = mx + b. But we moved the y over to the same side. So it's [y - ((mx + b)^2)].
         error += (y - (m * x + b)) ** 2
-        # We also have the (1/N) to account for. So will follow up with that in our return function
+        # We also have the (1/N) to account for. So will follow up with that in our return function.
         return error / float(len(points))
 
 def update_parameters(points, starting_b, starting_m, learn_rate, num_iterations):
