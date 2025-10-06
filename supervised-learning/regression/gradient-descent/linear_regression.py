@@ -64,7 +64,8 @@ def run():
     points = pd.read_csv('points.csv', delimiter=',')
 
     # Define hyperparameters -- 'learn_rate' and 'num_iterations'
-    learn_rate = 0.00001
+    # Learning rate is how fast we want to converge to the optimal solution.
+    learning_rate = 0.00001
     num_iterations = 1000
 
     # Use the y = mx + b formula since it's a linear regression.
